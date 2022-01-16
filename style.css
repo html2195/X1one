@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,200;1,300&display=swap');
+body{
+  font-family: 'Exo 2', sans-serif;
+  font-weight: 600; 
+  background: #F5F5DC;
+}
+
+.Logo{
+  float: left;
+}
+.header{
+  float: right;
+}
+.clear{
+  clear: both;
+}
+h1{
+ color:#FF0000;
+}
+.link{
+  transition: all .3s linear;
+}
+
+.link:hover{
+  height: 70px;
+  font-size: 50px;
+}
+.sold{
+  color:  #0099CC;
+}
+
